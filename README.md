@@ -1,7 +1,7 @@
 # Minecraft 指令書-夜雪鈴製作
 支援1.11-1.13喔~
 
-**如果有BUG 可以到Issues回報BUG喔~
+如果有BUG 可以到Issues回報BUG喔~
 
 v2.5 支援到 1.12.2
 
